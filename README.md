@@ -2,10 +2,12 @@
 
 🎥 Demo Link: 🎥 Demo Video
 🔗 Click here to watch the demo: https://youtu.be/FWfa2x7I5VY
-
+<img width="278" height="589" alt="Image" src="https://github.com/user-attachments/assets/21c8c9d0-31d9-4520-be61-a7ed9f08da76" /> <img width="278" height="591" alt="Image" src="https://github.com/user-attachments/assets/10a76d7e-e652-42d6-81b7-1f90b7d073c1" />  <img width="267" height="587" alt="Image" src="https://github.com/user-attachments/assets/01a00412-530b-45ec-b5d0-deb360cf17fb" />
 
 A modern Android application designed for both users and admins to browse, upload, and manage e-books.
 Built using Firebase Realtime Database, Firebase Authentication, Jetpack Compose, and Dagger-Hilt, this app provides a smooth and secure reading experience.
+
+<img width="265" height="588" alt="Image" src="https://github.com/user-attachments/assets/6ad36515-0a1c-4189-bab2-883056300760" />
 
 🚀 Features
 1->👤 User Features
@@ -33,3 +35,6 @@ Focuses on reading, browsing, and exploring e-books.
 🔹 Admin
 Handles uploading, organizing, and managing book data.
 Together, they create a complete e-book ecosystem that is easy to use and simple to maintain.
+
+<img width="269" height="597" alt="Image" src="https://github.com/user-attachments/assets/51a723fc-2e40-4624-94be-6880e94129ba" />  <img width="267" height="589" alt="Image" src="https://github.com/user-attachments/assets/b6d846cd-2d7a-4c37-9728-e63470c57359" />
+
